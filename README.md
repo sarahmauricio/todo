@@ -32,11 +32,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+When I was trying to add buttons to the display, everything kept appearing in the upper left corner and I didn't know why. I realized that I had the autoconnection to parent on when it should have been off.
+
+Also, when I was trying to use the File.utils, I was using the android one instead of the other version. This gave me some errors, so I knew I had did something wrong, but wasn't sure what it was.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 Sarah Mauricio
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
