@@ -11,8 +11,10 @@ import android.os.Bundle;
 import android.os.FileUtils;
 import android.util.Log;
 import android.view.View;
+import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.Toast;
 
 import java.io.File;
@@ -28,8 +30,8 @@ public class MainActivity extends AppCompatActivity {
 
     List<String> items = new ArrayList<>();
 
-    Button btnAdd;
-    EditText etItem;
+    ImageButton btnAdd;
+    AutoCompleteTextView etItem;
     RecyclerView rvItems;
     ItemsAdapter itemsAdapter;
 
