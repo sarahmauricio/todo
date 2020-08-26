@@ -4,7 +4,7 @@
 
 Submitted by: **Sarah Mauricio**
 
-Time spent: **4.5** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -20,13 +20,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] Imporved icons, colors, and spacing of app and added Auto Complete Text
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthroughWithUI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
